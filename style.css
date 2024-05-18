@@ -1,0 +1,12 @@
+.debut{
+    background-image: url(images/images.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 500px;
+}
+.logo{
+    width: 15%;
+}
+.nav-item a{
+    margin: 0 10px;
+}
